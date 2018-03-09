@@ -40,4 +40,4 @@ docker start ml-tutorial
 docker rm -f ml-tutorial
 ```
 
-## :music_notes: ... Technologic, Technologic, Technologic, Technologic :music_notes:
+## :musical_note: ... Technologic, Technologic, Technologic, Technologic :musical_note:
